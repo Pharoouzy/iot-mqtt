@@ -1,1 +1,1 @@
-# iot-mttq-class1
+# IoT MQTT implementation in Java
